@@ -167,8 +167,8 @@ svg {
 }
 
 /*Usability Testing & Results Section using Boostrap 4's col system*/
-.point {
-  width: 50px;
+.point img {
+  width: 200px;
 }
 
 @media (max-width: 768px) {
